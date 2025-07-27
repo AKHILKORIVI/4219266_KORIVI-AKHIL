@@ -1,6 +1,3 @@
-\# 4219266\_KORIVI-AKHIL
+# 4219266_KORIVI-AKHIL
 
-
-
-# !\[SDLC Great Learning Certificate](SDLC/great\_learning.png)
-
+![SDLC Great Learning Certificate](SDLC/great_learning.png)
