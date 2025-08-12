@@ -24,7 +24,7 @@
 
 ![Linux  assignment commands](Linux/Linux10.png)
 
-![Sololearn Introduction to C](Introduction to C/%20Sololearn%20Introduction%20to%20C.png)
+![Sololearn Introduction to C](Introduction to C/Sololearn%20Introduction%20to%20C.png)
 
 
 
