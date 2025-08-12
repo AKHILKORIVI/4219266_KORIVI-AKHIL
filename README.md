@@ -24,6 +24,7 @@
 
 ![Linux  assignment commands](Linux/Linux10.png)
 
+
 ![Sololearn Introduction to C]("Introduction to C/Sololearn Introduction to C.png")
 
 
